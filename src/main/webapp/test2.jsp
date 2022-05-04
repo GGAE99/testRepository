@@ -12,5 +12,6 @@
 	<h2>branch1 작업내용</h2>
 	<h2>test</h2>
 	<h2>pc1 test3</h2>
+	<h2>pc2 test2</h2>
 </body>
 </html>
