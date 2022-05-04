@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>새파일입니다.</h1>
+	<h2>branch2 추가내용</h2>
 </body>
 </html>
